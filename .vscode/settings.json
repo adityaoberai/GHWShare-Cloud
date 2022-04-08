@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/a493eafa-788a-471d-953e-1a914115856e/resourceGroups/GHWShare-Cloud/providers/Microsoft.Web/sites/ghwshare-cloud"
+}
